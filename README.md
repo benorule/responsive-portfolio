@@ -1,6 +1,10 @@
 # responsive-portfolio
 Coursework Assignment No. 2 for Coding Bootcamp
 Link to deployed application: https://benorule.github.io/responsive-portfolio/
+Screenshots of deployed application:
+![Index file screenshot](/index.png?raw=true "Index file screenshot")
+![Portfolio file screenshot](/portfolio.png?raw=true "Portfolio file screenshot")
+![Contact file screenshot](/contact.png?raw=true "Contact file screenshot")
 
 ## Shared Elements
 
