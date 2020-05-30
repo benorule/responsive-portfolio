@@ -1,5 +1,6 @@
 # responsive-portfolio
 Coursework Assignment No. 2 for Coding Bootcamp
+Link to deployed application: https://benorule.github.io/responsive-portfolio/
 
 ## Shared Elements
 
